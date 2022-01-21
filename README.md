@@ -15,6 +15,6 @@ Your Identity
 =============
 
 PS %USERPROFILE%\Desktop\PY> git config --global user.name Draft2424
-PS %USERPROFILE%\Desktop\PY> git config --global user.email draft.safi@gmail.com
+PS %USERPROFILE%\Desktop\PY> git config --global user.email your_email@email.com
 
 [%USERPROFILE% C:\Users\user-name\Work-Folder]
